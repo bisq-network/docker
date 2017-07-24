@@ -4,7 +4,7 @@ Building Bisq from source is currently a rather involved process, and this the D
 
 ## Clone locally
 
-    git clone https://github.com/bitsquare/Bisq-Docker.git && cd Bisq-Docker
+    git clone https://github.com/bitsquare/docker.git && cd docker
 
 ## Build image
 
